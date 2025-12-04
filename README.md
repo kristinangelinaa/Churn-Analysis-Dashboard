@@ -118,7 +118,7 @@ Based on the analysis, the following strategies are recommended:
 
 ## Author
 
-Created by Kristina Angelina
+Created by Kristine Angelina
 
 ## License
 
